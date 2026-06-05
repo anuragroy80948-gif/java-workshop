@@ -7,7 +7,6 @@ class first{
 	
 	}
 }
-
-
-
-
+/*
+6 keywords
+16 identifier           */
